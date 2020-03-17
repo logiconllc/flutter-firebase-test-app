@@ -1,5 +1,5 @@
 
-FLutter Firebase Test App
+Flutter Firebase Test App
 
 This project contians following Module:
 
@@ -12,8 +12,8 @@ This project contians following Module:
 Installing Instruction:
 
 Install flutter SDK.
-Install Vscode/Android Studio.
-Install Flutter/Dart plugin in VScode/Android Studio.
+Install Vscode or Android Studio.
+Install Flutter and Dart plugin in VScode or Android Studio.
 Clone Repo using download link.
 Open Folder (flutter-firebase-test-app) in Vscode.
 
@@ -30,7 +30,6 @@ This project contians following Module:
    Making call to Firestore and show result after manipulation (using cloud function).
    Notifcations on subscribing topics.
 
-
 Installing Instruction:
 
 Install flutter SDK.
@@ -39,21 +38,11 @@ Install Flutter and Dart plugin.
 Clone Repo using download link.
 Open Folder (flutter-firebase-test-app) in Vscode.
 
-
 Tools:
 VScode or Android Studio.
 
 Languages:
 Dart.
 
-Languages:
-Dart.
-
 Platform:
 Firebase.
-
-
-
- 
-
-
